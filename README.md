@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋 there .<br>beginner programmer, self taught on the internet,<br>And with chatgpt support codes 😁.<br>currently working on FIBA <br>Which is private repo for time beinf..<br>Python main language..<br>Well sorry 😔 for dragging you here to see the private repo, I will be in touch with any one soon.<br>
+Hey 👋 there.<br>beginner programmer, self taught on the internet,And with chatgpt support codes 😁.<br>currently working on FIBA <br>Which is private repo for time being..<br>Python main language.Well sorry 😔 for dragging you here to see the private repo, I will be in touch with any one soon.<br>
 
 
 ## 🌐 Socials:
