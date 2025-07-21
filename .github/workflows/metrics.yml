@@ -23,8 +23,3 @@ jobs:
           plugin_languages: yes
           plugin_stars: yes
           config_order: base.header, isocalendar, languages, stars
-          filename: metrics.plugin.achievements.svg
-          plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
-       
-     
