@@ -95,7 +95,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.49
+                            Average per day at ~0.48
                         </div>
                     </section>
                 </div>
@@ -1071,6 +1071,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1090,14 +1095,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="395.37829362199693" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="395.37829362199693" y="0" width="20.29294454884179" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="415.6712381708387" y="0" width="17.99679668636231" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="433.66803485720106" y="0" width="15.38355945297309" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="449.0515943101741" y="0" width="5.750133351030549" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.80172766120467" y="0" width="2.666393076708199" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="457.46812073791284" y="0" width="1.5636677242999641" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.03178846221283" y="0" width="0.9682115377871521" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="395.45237477469334" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="395.45237477469334" y="0" width="20.269681085091882" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="415.7220558597852" y="0" width="17.976165484896207" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="433.69822134468143" y="0" width="15.365924019297239" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="449.06414536397864" y="0" width="5.743541502398289" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.8076868663769" y="0" width="2.6633363720228" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="457.4710232383997" y="0" width="1.561875163967796" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.03289840236755" y="0" width="0.9671015976324674" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1167,7 +1172,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fausto-Korpsvart/Gruvbox-GTK-Theme</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A GTK theme based on the Gruvbox colour palette.</div>
@@ -1220,7 +1225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>brndnmtthws/conky</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Light-weight system monitor for X, Wayland, and other things, too</div>
@@ -1273,7 +1278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>itsfoss/text-script-files</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sample Text Files Used in the tutorials on It's FOSS and Linux Handbook</div>
@@ -1320,7 +1325,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>one710/hooman</span>
-                                        <span>starred 22 days ago</span>
+                                        <span>starred 23 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A friendlier, open-source platform for creating virtual identities.</div>
