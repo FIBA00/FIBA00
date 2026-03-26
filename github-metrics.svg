@@ -1093,6 +1093,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1112,14 +1117,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.34636278341222" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="230.34636278341222" y="0" width="199.23235487621014" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="429.5787176596224" y="0" width="12.224695595497469" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.80341325511984" y="0" width="9.656843549357815" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="451.46025680447764" y="0" width="6.072408805676085" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="457.53266561015374" y="0" width="1.2655903550706926" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="458.7982559652244" y="0" width="0.7421871920146546" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.54044315723905" y="0" width="0.4595568427609153" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.31217688652572" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="230.31217688652572" y="0" width="199.26007161955945" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="429.5722485060852" y="0" width="12.222881318171588" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.7951298242568" y="0" width="9.666394370670638" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="451.46152419492745" y="0" width="6.071507594392455" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="457.53303178931986" y="0" width="1.265402527744677" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="458.79843431706456" y="0" width="0.7420770433910335" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.5405113604556" y="0" width="0.4594886395444621" height="8" fill="#012456"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1189,7 +1194,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danielmiessler/SecLists</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</div>
@@ -1242,7 +1247,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BijayanBhattarai/BooksCollection</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1284,7 +1289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pystrands/pystrands</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1359,7 +1364,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        929
+                                        928
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
