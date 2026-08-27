@@ -23,12 +23,18 @@ I build RESTful APIs, work across relational and NoSQL databases, and I'm curren
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Guzolink](#)** | Marketplace platform where local merchants open shops and sell products. Built as lead backend/integration developer. | Node.js, Express, MongoDB, React (Vite), Tailwind, Stripe, Docker |
+| **[Guzolink](https://github.com/FIBA00/Guzolink)** | Merchant-to-merchant bulk shopping ecommerce platform. Lead backend/integration developer. | Node.js, Express, MongoDB, React (Vite), Tailwind, Stripe, Docker |
 | **[PromptCrafter](#)** | Deployed AI SaaS tool for rearranging and restructuring prompts via templates or AI. | Tailwind CSS, JavaScript |
-| **[Booky](#)** | Full-stack bookstore application. | React |
+| **[Booky](https://github.com/FIBA00/Booky)** | Full-stack bookstore application. | React |
+| **[fitique](https://github.com/FIBA00/fitique)** | Multi-tenant boutique platform with virtual wardrobe fit-checking before purchase. | React |
+| **[LearnEasy](https://github.com/FIBA00/LearnEasy)** | Learning platform that maps new programming languages to ones you already know. | React, MongoDB, PostgreSQL |
+| **[LibraryManagementSystem](https://github.com/FIBA00/LibraryManagementSystem)** | Library management system. | — *(no description set on repo — add one)* |
+| **[Cakely](https://github.com/FIBA00/Cakely)** | — *(no description set on repo — add one)* | — |
+| **[tiri](https://github.com/FIBA00/tiri)** | — *(no description set on repo — add one)* | — |
+| **[Yehidat](https://github.com/FIBA00/Yehidat)** | — *(no description set on repo — add one)* | — |
 | **[Creation Engine](#)** | Game-focused project exploring engine-level systems. | Godot, GDScript |
 
-*(swap the `#` links for your repo URLs)*
+*(PromptCrafter and Creation Engine still need repo URLs — swap the `#`)*
 
 ## 🎓 Certifications
 
