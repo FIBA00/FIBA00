@@ -7,6 +7,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=FIBA00&label=Profile%20views&color=0e75b6&style=flat" alt="FIBA00" />
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
+
 ## 💫 About Me
 
 Full-stack developer with 3+ years of self-taught, project-based experience across Python, JavaScript, and C++. Final-year Mechanical Engineering student at Addis Ababa Science and Technology University (AASTU), which shapes my interest in automation — combining mechanical systems with software.
