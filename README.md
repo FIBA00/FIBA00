@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Fraol 👋</h1>
-<p align="center">Full-stack developer bridging mechanical engineering and software — Python-first, building across web, ML, and game dev.</p>
+<p align="center">Full-stack developer bridging mechanical engineering and software building across web, ML, and game dev.</p>
 
 <img src="https://komarev.com/ghpvc/?username=FIBA00&label=Profile%20views&color=0e75b6&style=flat" alt="FIBA00" />
 
@@ -16,10 +16,6 @@ Full-stack developer with 3+ years of self-taught, project-based experience acro
 
 I build RESTful APIs, work across relational and NoSQL databases, and I'm currently deepening into machine learning and game development. Recent work spans microservices, distributed monoliths, and event-driven systems using Redis pub/sub.
 
-- 🔭 Currently building **Guzolink** — a merchant marketplace platform (Node/Express/MongoDB, React)
-- 🧠 Also working on **PromptCrafter** — a deployed AI SaaS tool for restructuring prompts
-- 🎮 Exploring game dev with **Creation Engine**, using Godot/GDScript
-- 🌱 Learning: machine learning fundamentals, distributed systems patterns
 - 🗣️ Languages: Afaan Oromo, Amharic, English
 
 ## 🚀 Featured Projects
